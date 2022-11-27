@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MiseryJumpscare.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="miseryjumpscare0000" x="0" y="0" width="1474" height="728" frameX="-230" frameY="0" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0001" x="0" y="0" width="1474" height="728" frameX="-270" frameY="0" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0002" x="0" y="0" width="1474" height="728" frameX="-390" frameY="0" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0003" x="0" y="0" width="1474" height="728" frameX="-570" frameY="0" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0004" x="0" y="0" width="1474" height="728" frameX="-1100" frameY="0" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0005" x="0" y="0" width="1474" height="728" frameX="-1430" frameY="0" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0006" x="1474" y="0" width="1280" height="720" frameX="-1615" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0007" x="2754" y="0" width="1280" height="720" frameX="-1625" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0008" x="1474" y="0" width="1280" height="720" frameX="-1605" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0009" x="2754" y="0" width="1280" height="720" frameX="-1645" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0010" x="1474" y="0" width="1280" height="720" frameX="-1605" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0011" x="2754" y="0" width="1280" height="720" frameX="-1675" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0012" x="1474" y="0" width="1280" height="720" frameX="-1605" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0013" x="2754" y="0" width="1280" height="720" frameX="-1665" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0014" x="1474" y="0" width="1280" height="720" frameX="-1645" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0015" x="2754" y="0" width="1280" height="720" frameX="-1605" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0016" x="1474" y="0" width="1280" height="720" frameX="-1675" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0017" x="2754" y="0" width="1280" height="720" frameX="-1605" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0018" x="1474" y="0" width="1280" height="720" frameX="-1665" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0019" x="2754" y="0" width="1280" height="720" frameX="-1645" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0020" x="1474" y="0" width="1280" height="720" frameX="-1605" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0021" x="2754" y="0" width="1280" height="720" frameX="-1675" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0022" x="1474" y="0" width="1280" height="720" frameX="-1605" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0023" x="2754" y="0" width="1280" height="720" frameX="-1665" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0024" x="1474" y="0" width="1280" height="720" frameX="-1645" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0025" x="2754" y="0" width="1280" height="720" frameX="-1605" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0026" x="1474" y="0" width="1280" height="720" frameX="-1675" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0027" x="2754" y="0" width="1280" height="720" frameX="-1605" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0028" x="1474" y="0" width="1280" height="720" frameX="-1665" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0029" x="2754" y="0" width="1280" height="720" frameX="-1645" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0030" x="1474" y="0" width="1280" height="720" frameX="-1605" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0031" x="2754" y="0" width="1280" height="720" frameX="-1675" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0032" x="1474" y="0" width="1280" height="720" frameX="-1605" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0033" x="2754" y="0" width="1280" height="720" frameX="-1665" frameY="-2" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0034" x="0" y="728" width="1366" height="728" frameX="-1324" frameY="0" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0035" x="0" y="0" width="1474" height="728" frameX="-780" frameY="0" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0036" x="0" y="0" width="1474" height="728" frameX="-370" frameY="0" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0037" x="0" y="0" width="1474" height="728" frameX="-10" frameY="0" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0038" x="0" y="0" width="1474" height="728" frameX="0" frameY="0" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0039" x="0" y="0" width="1474" height="728" frameX="0" frameY="0" frameWidth="2955" frameHeight="728"/>
+	<SubTexture name="miseryjumpscare0040" x="0" y="0" width="1474" height="728" frameX="0" frameY="0" frameWidth="2955" frameHeight="728"/>
+</TextureAtlas>

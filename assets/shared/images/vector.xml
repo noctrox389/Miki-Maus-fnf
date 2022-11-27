@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vector.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="vector instancia 10000" x="0" y="0" width="1875" height="1631" frameX="-374" frameY="-326" frameWidth="2623" frameHeight="2284"/>
+	<SubTexture name="vector instancia 10001" x="1875" y="0" width="2183" height="1901" frameX="-220" frameY="-191" frameWidth="2623" frameHeight="2284"/>
+	<SubTexture name="vector instancia 10002" x="4058" y="0" width="2437" height="2123" frameX="-93" frameY="-80" frameWidth="2623" frameHeight="2284"/>
+	<SubTexture name="vector instancia 10003" x="0" y="2123" width="2623" height="2284"/>
+</TextureAtlas>

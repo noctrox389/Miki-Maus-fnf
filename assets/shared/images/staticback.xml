@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="staticback.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="staticback0000" x="0" y="0" width="1980" height="1080"/>
+	<SubTexture name="staticback0001" x="1980" y="0" width="1980" height="1080"/>
+	<SubTexture name="staticback0002" x="0" y="1080" width="1980" height="1080"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Light.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="light0000" x="0" y="0" width="1502" height="665"/>
+	<SubTexture name="light0001" x="1502" y="0" width="1502" height="665"/>
+	<SubTexture name="light0002" x="0" y="665" width="1502" height="665"/>
+	<SubTexture name="light0003" x="1502" y="665" width="1502" height="665"/>
+	<SubTexture name="light0004" x="0" y="1330" width="1502" height="665"/>
+</TextureAtlas>

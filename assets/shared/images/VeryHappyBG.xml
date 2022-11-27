@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="VeryHappyBG.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="VeryHappyBG0000" x="0" y="0" width="7875" height="1613" frameX="-5100" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0001" x="0" y="0" width="7875" height="1613" frameX="-5000" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0002" x="0" y="0" width="7875" height="1613" frameX="-4900" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0003" x="0" y="0" width="7875" height="1613" frameX="-4800" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0004" x="0" y="0" width="7875" height="1613" frameX="-4700" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0005" x="0" y="0" width="7875" height="1613" frameX="-4600" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0006" x="0" y="0" width="7875" height="1613" frameX="-4500" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0007" x="0" y="0" width="7875" height="1613" frameX="-4400" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0008" x="0" y="0" width="7875" height="1613" frameX="-4300" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0009" x="0" y="0" width="7875" height="1613" frameX="-4200" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0010" x="0" y="0" width="7875" height="1613" frameX="-4100" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0011" x="0" y="0" width="7875" height="1613" frameX="-4000" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0012" x="0" y="0" width="7875" height="1613" frameX="-3900" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0013" x="0" y="0" width="7875" height="1613" frameX="-3800" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0014" x="0" y="0" width="7875" height="1613" frameX="-3700" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0015" x="0" y="0" width="7875" height="1613" frameX="-3600" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0016" x="0" y="0" width="7875" height="1613" frameX="-3500" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0017" x="0" y="0" width="7875" height="1613" frameX="-3400" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0018" x="0" y="0" width="7875" height="1613" frameX="-3300" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0019" x="0" y="0" width="7875" height="1613" frameX="-3200" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0020" x="0" y="0" width="7875" height="1613" frameX="-3100" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0021" x="0" y="0" width="7875" height="1613" frameX="-3000" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0022" x="0" y="0" width="7875" height="1613" frameX="-2900" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0023" x="0" y="0" width="7875" height="1613" frameX="-2800" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0024" x="0" y="0" width="7875" height="1613" frameX="-2700" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0025" x="0" y="0" width="7875" height="1613" frameX="-2600" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0026" x="0" y="0" width="7875" height="1613" frameX="-2500" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0027" x="0" y="0" width="7875" height="1613" frameX="-2400" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0028" x="0" y="0" width="7875" height="1613" frameX="-2300" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0029" x="0" y="0" width="7875" height="1613" frameX="-2200" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0030" x="0" y="0" width="7875" height="1613" frameX="-2100" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0031" x="0" y="0" width="7875" height="1613" frameX="-2000" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0032" x="0" y="0" width="7875" height="1613" frameX="-1900" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0033" x="0" y="0" width="7875" height="1613" frameX="-1800" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0034" x="0" y="0" width="7875" height="1613" frameX="-1700" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0035" x="0" y="0" width="7875" height="1613" frameX="-1600" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0036" x="0" y="0" width="7875" height="1613" frameX="-1500" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0037" x="0" y="0" width="7875" height="1613" frameX="-1400" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0038" x="0" y="0" width="7875" height="1613" frameX="-1300" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0039" x="0" y="0" width="7875" height="1613" frameX="-1200" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0040" x="0" y="0" width="7875" height="1613" frameX="-1100" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0041" x="0" y="0" width="7875" height="1613" frameX="-1000" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0042" x="0" y="0" width="7875" height="1613" frameX="-900" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0043" x="0" y="0" width="7875" height="1613" frameX="-800" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0044" x="0" y="0" width="7875" height="1613" frameX="-700" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0045" x="0" y="0" width="7875" height="1613" frameX="-600" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0046" x="0" y="0" width="7875" height="1613" frameX="-500" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0047" x="0" y="0" width="7875" height="1613" frameX="-400" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0048" x="0" y="0" width="7875" height="1613" frameX="-300" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0049" x="0" y="0" width="7875" height="1613" frameX="-200" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0050" x="0" y="0" width="7875" height="1613" frameX="-100" frameY="0" frameWidth="12975" frameHeight="1613"/>
+	<SubTexture name="VeryHappyBG0051" x="0" y="0" width="7875" height="1613" frameX="0" frameY="0" frameWidth="12975" frameHeight="1613"/>
+</TextureAtlas>

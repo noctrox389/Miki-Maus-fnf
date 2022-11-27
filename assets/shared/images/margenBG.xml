@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="margenBG.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="margenBG0000" x="0" y="0" width="2512" height="1412"/>
+	<SubTexture name="margenBG0001" x="0" y="1412" width="2512" height="1412"/>
+	<SubTexture name="margenBG0002" x="0" y="0" width="2512" height="1412"/>
+	<SubTexture name="margenBG0003" x="0" y="1412" width="2512" height="1412"/>
+	<SubTexture name="margenBG0004" x="0" y="0" width="2512" height="1412"/>
+	<SubTexture name="margenBG0005" x="0" y="1412" width="2512" height="1412"/>
+	<SubTexture name="margenBG0006" x="0" y="0" width="2512" height="1412"/>
+	<SubTexture name="margenBG0007" x="0" y="1412" width="2512" height="1412"/>
+	<SubTexture name="margenBG0008" x="0" y="0" width="2512" height="1412"/>
+	<SubTexture name="margenBG0009" x="0" y="1412" width="2512" height="1412"/>
+	<SubTexture name="margenBG0010" x="0" y="0" width="2512" height="1412"/>
+	<SubTexture name="margenBG0011" x="0" y="1412" width="2512" height="1412"/>
+	<SubTexture name="margenBG0012" x="0" y="0" width="2512" height="1412"/>
+	<SubTexture name="margenBG0013" x="0" y="1412" width="2512" height="1412"/>
+</TextureAtlas>

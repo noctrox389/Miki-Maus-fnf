@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BloodFinalBG.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BloodFinalBG0000" x="0" y="0" width="2512" height="1412"/>
+	<SubTexture name="BloodFinalBG0001" x="2512" y="0" width="2512" height="1412"/>
+	<SubTexture name="BloodFinalBG0002" x="5024" y="0" width="2512" height="1412"/>
+	<SubTexture name="BloodFinalBG0003" x="0" y="1412" width="2512" height="1412"/>
+	<SubTexture name="BloodFinalBG0004" x="2512" y="1412" width="2512" height="1412"/>
+	<SubTexture name="BloodFinalBG0005" x="5024" y="1412" width="2512" height="1412"/>
+	<SubTexture name="BloodFinalBG0006" x="2512" y="1412" width="2512" height="1412"/>
+	<SubTexture name="BloodFinalBG0007" x="0" y="1412" width="2512" height="1412"/>
+	<SubTexture name="BloodFinalBG0008" x="5024" y="0" width="2512" height="1412"/>
+	<SubTexture name="BloodFinalBG0009" x="2512" y="0" width="2512" height="1412"/>
+	<SubTexture name="BloodFinalBG0010" x="0" y="0" width="2512" height="1412"/>
+</TextureAtlas>
