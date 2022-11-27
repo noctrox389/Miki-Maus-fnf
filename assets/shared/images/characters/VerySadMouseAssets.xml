@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="VerySadMouseAssets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="VerySadMouseDown0000" x="0" y="0" width="735" height="1075" frameX="0" frameY="0" frameWidth="888" frameHeight="1075"/>
+	<SubTexture name="VerySadMouseDown0001" x="735" y="0" width="888" height="748" frameX="0" frameY="-140" frameWidth="888" frameHeight="1075"/>
+	<SubTexture name="VerySadMouseDown0002" x="1623" y="0" width="645" height="637" frameX="0" frameY="-251" frameWidth="888" frameHeight="1075"/>
+	<SubTexture name="VerySadMouseDown0003" x="2268" y="0" width="645" height="650" frameX="0" frameY="-238" frameWidth="888" frameHeight="1075"/>
+	<SubTexture name="VerySadMouseDown0004" x="2913" y="0" width="663" height="647" frameX="0" frameY="-241" frameWidth="888" frameHeight="1075"/>
+	<SubTexture name="VerySadMouseDown0005" x="3576" y="0" width="663" height="663" frameX="0" frameY="-225" frameWidth="888" frameHeight="1075"/>
+	<SubTexture name="VerySadMouseDown0006" x="4239" y="0" width="597" height="652" frameX="0" frameY="-236" frameWidth="888" frameHeight="1075"/>
+	<SubTexture name="VerySadMouseDown0007" x="4239" y="0" width="597" height="652" frameX="0" frameY="-236" frameWidth="888" frameHeight="1075"/>
+	<SubTexture name="VerySadMouseDown0008" x="4239" y="0" width="597" height="652" frameX="0" frameY="-236" frameWidth="888" frameHeight="1075"/>
+	<SubTexture name="VerySadMouseDown0009" x="4239" y="0" width="597" height="652" frameX="0" frameY="-236" frameWidth="888" frameHeight="1075"/>
+	<SubTexture name="VerySadMouseDown0010" x="4239" y="0" width="597" height="652" frameX="0" frameY="-236" frameWidth="888" frameHeight="1075"/>
+	<SubTexture name="VerySadMouseDown0011" x="4239" y="0" width="597" height="652" frameX="0" frameY="-236" frameWidth="888" frameHeight="1075"/>
+	<SubTexture name="VerySadMouseDown0012" x="4239" y="0" width="597" height="652" frameX="0" frameY="-236" frameWidth="888" frameHeight="1075"/>
+	<SubTexture name="VerySadMouseDown0013" x="4239" y="0" width="597" height="652" frameX="0" frameY="-236" frameWidth="888" frameHeight="1075"/>
+	<SubTexture name="VerySadMouseIdle0000" x="4836" y="0" width="581" height="714" frameX="0" frameY="-36" frameWidth="584" frameHeight="750"/>
+	<SubTexture name="VerySadMouseIdle0001" x="5417" y="0" width="581" height="733" frameX="0" frameY="-17" frameWidth="584" frameHeight="750"/>
+	<SubTexture name="VerySadMouseIdle0002" x="5998" y="0" width="582" height="730" frameX="0" frameY="-19" frameWidth="584" frameHeight="750"/>
+	<SubTexture name="VerySadMouseIdle0003" x="6580" y="0" width="582" height="729" frameX="0" frameY="-20" frameWidth="584" frameHeight="750"/>
+	<SubTexture name="VerySadMouseIdle0004" x="7162" y="0" width="582" height="721" frameX="0" frameY="-28" frameWidth="584" frameHeight="750"/>
+	<SubTexture name="VerySadMouseIdle0005" x="0" y="1075" width="582" height="738" frameX="0" frameY="-11" frameWidth="584" frameHeight="750"/>
+	<SubTexture name="VerySadMouseIdle0006" x="582" y="1075" width="582" height="736" frameX="0" frameY="-13" frameWidth="584" frameHeight="750"/>
+	<SubTexture name="VerySadMouseIdle0007" x="1164" y="1075" width="582" height="735" frameX="0" frameY="-14" frameWidth="584" frameHeight="750"/>
+	<SubTexture name="VerySadMouseIdle0008" x="1746" y="1075" width="584" height="728" frameX="0" frameY="-21" frameWidth="584" frameHeight="750"/>
+	<SubTexture name="VerySadMouseIdle0009" x="2330" y="1075" width="584" height="748" frameX="0" frameY="-1" frameWidth="584" frameHeight="750"/>
+	<SubTexture name="VerySadMouseIdle0010" x="2914" y="1075" width="584" height="729" frameX="0" frameY="-20" frameWidth="584" frameHeight="750"/>
+	<SubTexture name="VerySadMouseIdle0011" x="3498" y="1075" width="584" height="749" frameX="0" frameY="0" frameWidth="584" frameHeight="750"/>
+	<SubTexture name="VerySadMouseIdle0012" x="4082" y="1075" width="584" height="729" frameX="0" frameY="-20" frameWidth="584" frameHeight="750"/>
+	<SubTexture name="VerySadMouseIdle0013" x="4666" y="1075" width="584" height="748" frameX="0" frameY="-1" frameWidth="584" frameHeight="750"/>
+	<SubTexture name="VerySadMouseLeft0000" x="5250" y="1075" width="825" height="1145"/>
+	<SubTexture name="VerySadMouseLeft0001" x="6075" y="1075" width="601" height="831" frameX="-104" frameY="-314" frameWidth="825" frameHeight="1145"/>
+	<SubTexture name="VerySadMouseLeft0002" x="6676" y="1075" width="568" height="754" frameX="-89" frameY="-391" frameWidth="825" frameHeight="1145"/>
+	<SubTexture name="VerySadMouseLeft0003" x="7244" y="1075" width="568" height="768" frameX="-89" frameY="-377" frameWidth="825" frameHeight="1145"/>
+	<SubTexture name="VerySadMouseLeft0004" x="0" y="2220" width="613" height="753" frameX="-65" frameY="-392" frameWidth="825" frameHeight="1145"/>
+	<SubTexture name="VerySadMouseLeft0005" x="613" y="2220" width="613" height="770" frameX="-65" frameY="-375" frameWidth="825" frameHeight="1145"/>
+	<SubTexture name="VerySadMouseLeft0006" x="1226" y="2220" width="549" height="751" frameX="-143" frameY="-394" frameWidth="825" frameHeight="1145"/>
+	<SubTexture name="VerySadMouseLeft0007" x="1226" y="2220" width="549" height="751" frameX="-143" frameY="-394" frameWidth="825" frameHeight="1145"/>
+	<SubTexture name="VerySadMouseLeft0008" x="1226" y="2220" width="549" height="751" frameX="-143" frameY="-394" frameWidth="825" frameHeight="1145"/>
+	<SubTexture name="VerySadMouseLeft0009" x="1226" y="2220" width="549" height="751" frameX="-143" frameY="-394" frameWidth="825" frameHeight="1145"/>
+	<SubTexture name="VerySadMouseLeft0010" x="1226" y="2220" width="549" height="751" frameX="-143" frameY="-394" frameWidth="825" frameHeight="1145"/>
+	<SubTexture name="VerySadMouseLeft0011" x="1226" y="2220" width="549" height="751" frameX="-143" frameY="-394" frameWidth="825" frameHeight="1145"/>
+	<SubTexture name="VerySadMouseLeft0012" x="1226" y="2220" width="549" height="751" frameX="-143" frameY="-394" frameWidth="825" frameHeight="1145"/>
+	<SubTexture name="VerySadMouseLeft0013" x="1226" y="2220" width="549" height="751" frameX="-143" frameY="-394" frameWidth="825" frameHeight="1145"/>
+	<SubTexture name="VerySadMouseRight 0000" x="1775" y="2220" width="873" height="708" frameX="0" frameY="-146" frameWidth="873" frameHeight="854"/>
+	<SubTexture name="VerySadMouseRight 0001" x="2648" y="2220" width="759" height="854" frameX="0" frameY="0" frameWidth="873" frameHeight="854"/>
+	<SubTexture name="VerySadMouseRight 0002" x="3407" y="2220" width="777" height="757" frameX="0" frameY="-97" frameWidth="873" frameHeight="854"/>
+	<SubTexture name="VerySadMouseRight 0003" x="4184" y="2220" width="777" height="746" frameX="0" frameY="-108" frameWidth="873" frameHeight="854"/>
+	<SubTexture name="VerySadMouseRight 0004" x="4961" y="2220" width="800" height="760" frameX="0" frameY="-94" frameWidth="873" frameHeight="854"/>
+	<SubTexture name="VerySadMouseRight 0005" x="5761" y="2220" width="800" height="742" frameX="0" frameY="-112" frameWidth="873" frameHeight="854"/>
+	<SubTexture name="VerySadMouseRight 0006" x="6561" y="2220" width="640" height="760" frameX="0" frameY="-94" frameWidth="873" frameHeight="854"/>
+	<SubTexture name="VerySadMouseRight 0007" x="7201" y="2220" width="633" height="750" frameX="0" frameY="-104" frameWidth="873" frameHeight="854"/>
+	<SubTexture name="VerySadMouseRight 0008" x="0" y="3074" width="639" height="763" frameX="0" frameY="-91" frameWidth="873" frameHeight="854"/>
+	<SubTexture name="VerySadMouseRight 0009" x="639" y="3074" width="620" height="742" frameX="0" frameY="-112" frameWidth="873" frameHeight="854"/>
+	<SubTexture name="VerySadMouseRight 0010" x="639" y="3074" width="620" height="742" frameX="0" frameY="-112" frameWidth="873" frameHeight="854"/>
+	<SubTexture name="VerySadMouseRight 0011" x="639" y="3074" width="620" height="742" frameX="0" frameY="-112" frameWidth="873" frameHeight="854"/>
+	<SubTexture name="VerySadMouseRight 0012" x="639" y="3074" width="620" height="742" frameX="0" frameY="-112" frameWidth="873" frameHeight="854"/>
+	<SubTexture name="VerySadMouseRight 0013" x="639" y="3074" width="620" height="742" frameX="0" frameY="-112" frameWidth="873" frameHeight="854"/>
+	<SubTexture name="VerySadMouseUp0000" x="1259" y="3074" width="684" height="1166" frameX="0" frameY="0" frameWidth="734" frameHeight="1167"/>
+	<SubTexture name="VerySadMouseUp0001" x="1943" y="3074" width="684" height="1030" frameX="0" frameY="-136" frameWidth="734" frameHeight="1167"/>
+	<SubTexture name="VerySadMouseUp0002" x="2627" y="3074" width="728" height="811" frameX="0" frameY="-356" frameWidth="734" frameHeight="1167"/>
+	<SubTexture name="VerySadMouseUp0003" x="3355" y="3074" width="728" height="817" frameX="0" frameY="-350" frameWidth="734" frameHeight="1167"/>
+	<SubTexture name="VerySadMouseUp0004" x="4083" y="3074" width="734" height="805" frameX="0" frameY="-362" frameWidth="734" frameHeight="1167"/>
+	<SubTexture name="VerySadMouseUp0005" x="4817" y="3074" width="734" height="808" frameX="0" frameY="-359" frameWidth="734" frameHeight="1167"/>
+	<SubTexture name="VerySadMouseUp0006" x="5551" y="3074" width="611" height="800" frameX="0" frameY="-366" frameWidth="734" frameHeight="1167"/>
+	<SubTexture name="VerySadMouseUp0007" x="5551" y="3074" width="611" height="800" frameX="0" frameY="-366" frameWidth="734" frameHeight="1167"/>
+	<SubTexture name="VerySadMouseUp0008" x="5551" y="3074" width="611" height="800" frameX="0" frameY="-366" frameWidth="734" frameHeight="1167"/>
+	<SubTexture name="VerySadMouseUp0009" x="5551" y="3074" width="611" height="800" frameX="0" frameY="-366" frameWidth="734" frameHeight="1167"/>
+	<SubTexture name="VerySadMouseUp0010" x="5551" y="3074" width="611" height="800" frameX="0" frameY="-366" frameWidth="734" frameHeight="1167"/>
+	<SubTexture name="VerySadMouseUp0011" x="5551" y="3074" width="611" height="800" frameX="0" frameY="-366" frameWidth="734" frameHeight="1167"/>
+	<SubTexture name="VerySadMouseUp0012" x="5551" y="3074" width="611" height="800" frameX="0" frameY="-366" frameWidth="734" frameHeight="1167"/>
+	<SubTexture name="VerySadMouseUp0013" x="5551" y="3074" width="611" height="800" frameX="0" frameY="-366" frameWidth="734" frameHeight="1167"/>
+</TextureAtlas>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="UnknownMouseAssets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="UnknownMouseDown0000" x="0" y="0" width="994" height="619" frameX="0" frameY="-252" frameWidth="994" frameHeight="871"/>
+	<SubTexture name="UnknownMouseDown0001" x="994" y="0" width="994" height="715" frameX="0" frameY="-87" frameWidth="994" frameHeight="871"/>
+	<SubTexture name="UnknownMouseDown0002" x="1988" y="0" width="994" height="679" frameX="0" frameY="-120" frameWidth="994" frameHeight="871"/>
+	<SubTexture name="UnknownMouseDown0003" x="2982" y="0" width="994" height="753" frameX="0" frameY="-22" frameWidth="994" frameHeight="871"/>
+	<SubTexture name="UnknownMouseDown0004" x="3976" y="0" width="994" height="695" frameX="0" frameY="-81" frameWidth="994" frameHeight="871"/>
+	<SubTexture name="UnknownMouseDown0005" x="4970" y="0" width="994" height="762" frameX="0" frameY="0" frameWidth="994" frameHeight="871"/>
+	<SubTexture name="UnknownMouseDown0006" x="5964" y="0" width="994" height="702" frameX="0" frameY="-73" frameWidth="994" frameHeight="871"/>
+	<SubTexture name="UnknownMouseDown0007" x="6958" y="0" width="994" height="745" frameX="0" frameY="-21" frameWidth="994" frameHeight="871"/>
+	<SubTexture name="UnknownMouseDown0008" x="0" y="762" width="994" height="725" frameX="0" frameY="-46" frameWidth="994" frameHeight="871"/>
+	<SubTexture name="UnknownMouseDown0009" x="0" y="762" width="994" height="725" frameX="0" frameY="-46" frameWidth="994" frameHeight="871"/>
+	<SubTexture name="UnknownMouseDown0010" x="994" y="762" width="994" height="709" frameX="0" frameY="-64" frameWidth="994" frameHeight="871"/>
+	<SubTexture name="UnknownMouseDown0011" x="1988" y="762" width="994" height="735" frameX="0" frameY="-33" frameWidth="994" frameHeight="871"/>
+	<SubTexture name="UnknownMouseDown0012" x="2982" y="762" width="994" height="707" frameX="0" frameY="-67" frameWidth="994" frameHeight="871"/>
+	<SubTexture name="UnknownMouseDown0013" x="3976" y="762" width="994" height="730" frameX="0" frameY="-39" frameWidth="994" frameHeight="871"/>
+	<SubTexture name="UnknownMouseIdle0000" x="4970" y="762" width="960" height="752" frameX="-22" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseIdle0001" x="5930" y="762" width="987" height="752" frameX="-5" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseIdle0002" x="6917" y="762" width="1018" height="752"/>
+	<SubTexture name="UnknownMouseIdle0003" x="0" y="1514" width="966" height="752" frameX="-20" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseIdle0004" x="966" y="1514" width="997" height="752" frameX="-8" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseIdle0005" x="1963" y="1514" width="968" height="752" frameX="-17" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseIdle0006" x="2931" y="1514" width="990" height="752" frameX="-11" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseIdle0007" x="3921" y="1514" width="972" height="752" frameX="-15" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseIdle0008" x="4893" y="1514" width="994" height="752" frameX="-9" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseIdle0009" x="5887" y="1514" width="983" height="752" frameX="-8" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseIdle0010" x="6870" y="1514" width="982" height="752" frameX="-14" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseIdle0011" x="0" y="2266" width="978" height="752" frameX="-11" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseIdle0012" x="978" y="2266" width="979" height="752" frameX="-15" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseIdle0013" x="1957" y="2266" width="967" height="752" frameX="-18" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseLeft0000" x="2924" y="2266" width="1141" height="792" frameX="0" frameY="-12" frameWidth="1182" frameHeight="843"/>
+	<SubTexture name="UnknownMouseLeft0001" x="4065" y="2266" width="1066" height="739" frameX="-55" frameY="-104" frameWidth="1182" frameHeight="843"/>
+	<SubTexture name="UnknownMouseLeft0002" x="5131" y="2266" width="1050" height="797" frameX="-119" frameY="-6" frameWidth="1182" frameHeight="843"/>
+	<SubTexture name="UnknownMouseLeft0003" x="6181" y="2266" width="991" height="721" frameX="-139" frameY="-101" frameWidth="1182" frameHeight="843"/>
+	<SubTexture name="UnknownMouseLeft0004" x="0" y="3063" width="1031" height="801" frameX="-148" frameY="0" frameWidth="1182" frameHeight="843"/>
+	<SubTexture name="UnknownMouseLeft0005" x="1031" y="3063" width="979" height="737" frameX="-165" frameY="-82" frameWidth="1182" frameHeight="843"/>
+	<SubTexture name="UnknownMouseLeft0006" x="2010" y="3063" width="965" height="721" frameX="-172" frameY="-101" frameWidth="1182" frameHeight="843"/>
+	<SubTexture name="UnknownMouseLeft0007" x="2975" y="3063" width="1038" height="721" frameX="-144" frameY="-101" frameWidth="1182" frameHeight="843"/>
+	<SubTexture name="UnknownMouseLeft0008" x="4013" y="3063" width="999" height="721" frameX="-151" frameY="-101" frameWidth="1182" frameHeight="843"/>
+	<SubTexture name="UnknownMouseLeft0009" x="5012" y="3063" width="1018" height="721" frameX="-152" frameY="-101" frameWidth="1182" frameHeight="843"/>
+	<SubTexture name="UnknownMouseLeft0010" x="6030" y="3063" width="986" height="721" frameX="-159" frameY="-101" frameWidth="1182" frameHeight="843"/>
+	<SubTexture name="UnknownMouseLeft0011" x="7016" y="3063" width="1007" height="721" frameX="-156" frameY="-101" frameWidth="1182" frameHeight="843"/>
+	<SubTexture name="UnknownMouseLeft0012" x="0" y="3864" width="1009" height="721" frameX="-145" frameY="-101" frameWidth="1182" frameHeight="843"/>
+	<SubTexture name="UnknownMouseLeft0013" x="1009" y="3864" width="994" height="721" frameX="-161" frameY="-101" frameWidth="1182" frameHeight="843"/>
+	<SubTexture name="UnknownMouseRight0000" x="2003" y="3864" width="1104" height="799" frameX="-11" frameY="-1" frameWidth="1115" frameHeight="800"/>
+	<SubTexture name="UnknownMouseRight0001" x="3107" y="3864" width="955" height="754" frameX="-24" frameY="0" frameWidth="1115" frameHeight="800"/>
+	<SubTexture name="UnknownMouseRight0002" x="4062" y="3864" width="955" height="781" frameX="-15" frameY="-1" frameWidth="1115" frameHeight="800"/>
+	<SubTexture name="UnknownMouseRight0003" x="5017" y="3864" width="933" height="757" frameX="-23" frameY="0" frameWidth="1115" frameHeight="800"/>
+	<SubTexture name="UnknownMouseRight0004" x="5950" y="3864" width="897" height="754" frameX="-24" frameY="0" frameWidth="1115" frameHeight="800"/>
+	<SubTexture name="UnknownMouseRight0005" x="6847" y="3864" width="926" height="784" frameX="-13" frameY="-1" frameWidth="1115" frameHeight="800"/>
+	<SubTexture name="UnknownMouseRight0006" x="0" y="4663" width="893" height="754" frameX="-24" frameY="0" frameWidth="1115" frameHeight="800"/>
+	<SubTexture name="UnknownMouseRight0007" x="893" y="4663" width="932" height="754" frameX="-10" frameY="0" frameWidth="1115" frameHeight="800"/>
+	<SubTexture name="UnknownMouseRight0008" x="1825" y="4663" width="903" height="754" frameX="-18" frameY="0" frameWidth="1115" frameHeight="800"/>
+	<SubTexture name="UnknownMouseRight0009" x="2728" y="4663" width="923" height="754" frameX="-13" frameY="0" frameWidth="1115" frameHeight="800"/>
+	<SubTexture name="UnknownMouseRight0010" x="3651" y="4663" width="897" height="754" frameX="-22" frameY="0" frameWidth="1115" frameHeight="800"/>
+	<SubTexture name="UnknownMouseRight0011" x="4548" y="4663" width="908" height="754" frameX="-19" frameY="0" frameWidth="1115" frameHeight="800"/>
+	<SubTexture name="UnknownMouseRight0012" x="5456" y="4663" width="932" height="754" frameX="0" frameY="0" frameWidth="1115" frameHeight="800"/>
+	<SubTexture name="UnknownMouseRight0013" x="2728" y="4663" width="923" height="754" frameX="-14" frameY="0" frameWidth="1115" frameHeight="800"/>
+	<SubTexture name="UnknownMouseUp0000" x="6388" y="4663" width="995" height="1192"/>
+	<SubTexture name="UnknownMouseUp0001" x="0" y="5855" width="995" height="886" frameX="0" frameY="-205" frameWidth="995" frameHeight="1192"/>
+	<SubTexture name="UnknownMouseUp0002" x="995" y="5855" width="995" height="958" frameX="0" frameY="-181" frameWidth="995" frameHeight="1192"/>
+	<SubTexture name="UnknownMouseUp0003" x="1990" y="5855" width="995" height="849" frameX="0" frameY="-266" frameWidth="995" frameHeight="1192"/>
+	<SubTexture name="UnknownMouseUp0004" x="2985" y="5855" width="995" height="910" frameX="0" frameY="-240" frameWidth="995" frameHeight="1192"/>
+	<SubTexture name="UnknownMouseUp0005" x="3980" y="5855" width="995" height="814" frameX="0" frameY="-308" frameWidth="995" frameHeight="1192"/>
+	<SubTexture name="UnknownMouseUp0006" x="4975" y="5855" width="995" height="892" frameX="0" frameY="-260" frameWidth="995" frameHeight="1192"/>
+	<SubTexture name="UnknownMouseUp0007" x="5970" y="5855" width="995" height="860" frameX="0" frameY="-279" frameWidth="995" frameHeight="1192"/>
+	<SubTexture name="UnknownMouseUp0008" x="6965" y="5855" width="995" height="873" frameX="0" frameY="-271" frameWidth="995" frameHeight="1192"/>
+	<SubTexture name="UnknownMouseUp0009" x="0" y="6813" width="995" height="843" frameX="0" frameY="-289" frameWidth="995" frameHeight="1192"/>
+	<SubTexture name="UnknownMouseUp0010" x="995" y="6813" width="995" height="863" frameX="0" frameY="-277" frameWidth="995" frameHeight="1192"/>
+	<SubTexture name="UnknownMouseUp0011" x="1990" y="6813" width="995" height="840" frameX="0" frameY="-291" frameWidth="995" frameHeight="1192"/>
+	<SubTexture name="UnknownMouseUp0012" x="2985" y="6813" width="995" height="866" frameX="0" frameY="-275" frameWidth="995" frameHeight="1192"/>
+	<SubTexture name="UnknownMouseUp0013" x="3980" y="6813" width="995" height="847" frameX="0" frameY="-287" frameWidth="995" frameHeight="1192"/>
+</TextureAtlas>
