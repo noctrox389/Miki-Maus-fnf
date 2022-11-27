@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BloodBFAssets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BloodBFDown0000" x="0" y="0" width="788" height="760"/>
+	<SubTexture name="BloodBFDown0001" x="788" y="0" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="BloodBFDown0002" x="0" y="0" width="788" height="760"/>
+	<SubTexture name="BloodBFDown0003" x="788" y="0" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="BloodBFDown0004" x="788" y="0" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="BloodBFDown0005" x="788" y="0" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="BloodBFDown0006" x="788" y="0" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="BloodBFDown0007" x="788" y="0" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="BloodBFDown0008" x="788" y="0" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="BloodBFDown0009" x="788" y="0" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="BloodBFDown0010" x="788" y="0" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="BloodBFDown0011" x="788" y="0" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="BloodBFDown0012" x="788" y="0" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="BloodBFDown0013" x="788" y="0" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="BloodBFIdle0000" x="1565" y="0" width="823" height="702"/>
+	<SubTexture name="BloodBFIdle0001" x="1565" y="0" width="823" height="702"/>
+	<SubTexture name="BloodBFIdle0002" x="2388" y="0" width="817" height="687" frameX="-4" frameY="-12" frameWidth="823" frameHeight="702"/>
+	<SubTexture name="BloodBFIdle0003" x="2388" y="0" width="817" height="687" frameX="-4" frameY="-12" frameWidth="823" frameHeight="702"/>
+	<SubTexture name="BloodBFIdle0004" x="3205" y="0" width="815" height="681" frameX="-1" frameY="-13" frameWidth="823" frameHeight="702"/>
+	<SubTexture name="BloodBFIdle0005" x="3205" y="0" width="815" height="681" frameX="-1" frameY="-13" frameWidth="823" frameHeight="702"/>
+	<SubTexture name="BloodBFIdle0006" x="4020" y="0" width="807" height="667" frameX="-5" frameY="-22" frameWidth="823" frameHeight="702"/>
+	<SubTexture name="BloodBFIdle0007" x="4020" y="0" width="807" height="667" frameX="-5" frameY="-22" frameWidth="823" frameHeight="702"/>
+	<SubTexture name="BloodBFIdle0008" x="4827" y="0" width="807" height="667" frameX="-3" frameY="-20" frameWidth="823" frameHeight="702"/>
+	<SubTexture name="BloodBFIdle0009" x="4827" y="0" width="807" height="667" frameX="-3" frameY="-20" frameWidth="823" frameHeight="702"/>
+	<SubTexture name="BloodBFIdle0010" x="4827" y="0" width="807" height="667" frameX="-3" frameY="-20" frameWidth="823" frameHeight="702"/>
+	<SubTexture name="BloodBFIdle0011" x="4827" y="0" width="807" height="667" frameX="-3" frameY="-20" frameWidth="823" frameHeight="702"/>
+	<SubTexture name="BloodBFIdle0012" x="4827" y="0" width="807" height="667" frameX="-3" frameY="-20" frameWidth="823" frameHeight="702"/>
+	<SubTexture name="BloodBFIdle0013" x="4827" y="0" width="807" height="667" frameX="-3" frameY="-20" frameWidth="823" frameHeight="702"/>
+	<SubTexture name="BloodBFLeft0000" x="5634" y="0" width="813" height="637"/>
+	<SubTexture name="BloodBFLeft0001" x="6447" y="0" width="800" height="627" frameX="-11" frameY="-4" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="BloodBFLeft0002" x="6447" y="0" width="800" height="627" frameX="-11" frameY="-4" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="BloodBFLeft0003" x="7247" y="0" width="783" height="616" frameX="-24" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="BloodBFLeft0004" x="7247" y="0" width="783" height="616" frameX="-24" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="BloodBFLeft0005" x="0" y="760" width="784" height="623" frameX="-29" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="BloodBFLeft0006" x="0" y="760" width="784" height="623" frameX="-29" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="BloodBFLeft0007" x="0" y="760" width="784" height="623" frameX="-29" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="BloodBFLeft0008" x="0" y="760" width="784" height="623" frameX="-29" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="BloodBFLeft0009" x="0" y="760" width="784" height="623" frameX="-29" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="BloodBFLeft0010" x="0" y="760" width="784" height="623" frameX="-29" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="BloodBFLeft0011" x="0" y="760" width="784" height="623" frameX="-29" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="BloodBFLeft0012" x="0" y="760" width="784" height="623" frameX="-29" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="BloodBFLeft0013" x="0" y="760" width="784" height="623" frameX="-29" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="BloodBFRight0000" x="784" y="760" width="765" height="678" frameX="-4" frameY="0" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="BloodBFRight0001" x="1549" y="760" width="766" height="665" frameX="-1" frameY="-7" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="BloodBFRight0002" x="1549" y="760" width="766" height="665" frameX="-1" frameY="-7" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="BloodBFRight0003" x="2315" y="760" width="773" height="656" frameX="0" frameY="-17" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="BloodBFRight0004" x="2315" y="760" width="773" height="656" frameX="0" frameY="-17" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="BloodBFRight0005" x="3088" y="760" width="775" height="649" frameX="-1" frameY="-21" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="BloodBFRight0006" x="3088" y="760" width="775" height="649" frameX="-1" frameY="-21" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="BloodBFRight0007" x="3088" y="760" width="775" height="649" frameX="-1" frameY="-21" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="BloodBFRight0008" x="3088" y="760" width="775" height="649" frameX="-1" frameY="-21" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="BloodBFRight0009" x="3088" y="760" width="775" height="649" frameX="-1" frameY="-21" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="BloodBFRight0010" x="3088" y="760" width="775" height="649" frameX="-1" frameY="-21" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="BloodBFRight0011" x="3088" y="760" width="775" height="649" frameX="-1" frameY="-21" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="BloodBFRight0012" x="3088" y="760" width="775" height="649" frameX="-1" frameY="-21" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="BloodBFRight0013" x="3088" y="760" width="775" height="649" frameX="-1" frameY="-21" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="BloodBFUp0000" x="3863" y="760" width="816" height="568" frameX="0" frameY="0" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="BloodBFUp0001" x="4679" y="760" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="BloodBFUp0002" x="5489" y="760" width="810" height="543" frameX="-6" frameY="-25" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="BloodBFUp0003" x="4679" y="760" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="BloodBFUp0004" x="4679" y="760" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="BloodBFUp0005" x="4679" y="760" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="BloodBFUp0006" x="4679" y="760" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="BloodBFUp0007" x="4679" y="760" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="BloodBFUp0008" x="4679" y="760" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="BloodBFUp0009" x="4679" y="760" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="BloodBFUp0010" x="4679" y="760" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="BloodBFUp0011" x="4679" y="760" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="BloodBFUp0012" x="4679" y="760" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="BloodBFUp0013" x="4679" y="760" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="MISSBloodBFDown0000" x="6299" y="760" width="788" height="760"/>
+	<SubTexture name="MISSBloodBFDown0001" x="7087" y="760" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="MISSBloodBFDown0002" x="0" y="1520" width="788" height="760"/>
+	<SubTexture name="MISSBloodBFDown0003" x="7087" y="760" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="MISSBloodBFDown0004" x="7087" y="760" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="MISSBloodBFDown0005" x="7087" y="760" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="MISSBloodBFDown0006" x="7087" y="760" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="MISSBloodBFDown0007" x="7087" y="760" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="MISSBloodBFDown0008" x="7087" y="760" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="MISSBloodBFDown0009" x="7087" y="760" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="MISSBloodBFDown0010" x="7087" y="760" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="MISSBloodBFDown0011" x="7087" y="760" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="MISSBloodBFDown0012" x="7087" y="760" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="MISSBloodBFDown0013" x="7087" y="760" width="777" height="733" frameX="-10" frameY="-11" frameWidth="788" frameHeight="760"/>
+	<SubTexture name="MISSBloodBFLeft0000" x="788" y="1520" width="813" height="637"/>
+	<SubTexture name="MISSBloodBFLeft0001" x="1601" y="1520" width="800" height="627" frameX="-11" frameY="-4" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="MISSBloodBFLeft0002" x="1601" y="1520" width="800" height="627" frameX="-11" frameY="-4" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="MISSBloodBFLeft0003" x="2401" y="1520" width="783" height="616" frameX="-24" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="MISSBloodBFLeft0004" x="2401" y="1520" width="783" height="616" frameX="-24" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="MISSBloodBFLeft0005" x="3184" y="1520" width="784" height="623" frameX="-29" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="MISSBloodBFLeft0006" x="3184" y="1520" width="784" height="623" frameX="-29" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="MISSBloodBFLeft0007" x="3184" y="1520" width="784" height="623" frameX="-29" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="MISSBloodBFLeft0008" x="3184" y="1520" width="784" height="623" frameX="-29" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="MISSBloodBFLeft0009" x="3184" y="1520" width="784" height="623" frameX="-29" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="MISSBloodBFLeft0010" x="3184" y="1520" width="784" height="623" frameX="-29" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="MISSBloodBFLeft0011" x="3184" y="1520" width="784" height="623" frameX="-29" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="MISSBloodBFLeft0012" x="3184" y="1520" width="784" height="623" frameX="-29" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="MISSBloodBFLeft0013" x="3184" y="1520" width="784" height="623" frameX="-29" frameY="-10" frameWidth="813" frameHeight="637"/>
+	<SubTexture name="MISSBloodBFRight0000" x="3968" y="1520" width="765" height="678" frameX="-4" frameY="0" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="MISSBloodBFRight0001" x="4733" y="1520" width="766" height="665" frameX="-1" frameY="-7" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="MISSBloodBFRight0002" x="4733" y="1520" width="766" height="665" frameX="-1" frameY="-7" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="MISSBloodBFRight0003" x="5499" y="1520" width="773" height="656" frameX="0" frameY="-17" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="MISSBloodBFRight0004" x="5499" y="1520" width="773" height="656" frameX="0" frameY="-17" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="MISSBloodBFRight0005" x="6272" y="1520" width="775" height="649" frameX="-1" frameY="-21" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="MISSBloodBFRight0006" x="6272" y="1520" width="775" height="649" frameX="-1" frameY="-21" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="MISSBloodBFRight0007" x="6272" y="1520" width="775" height="649" frameX="-1" frameY="-21" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="MISSBloodBFRight0008" x="6272" y="1520" width="775" height="649" frameX="-1" frameY="-21" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="MISSBloodBFRight0009" x="6272" y="1520" width="775" height="649" frameX="-1" frameY="-21" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="MISSBloodBFRight0010" x="6272" y="1520" width="775" height="649" frameX="-1" frameY="-21" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="MISSBloodBFRight0011" x="6272" y="1520" width="775" height="649" frameX="-1" frameY="-21" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="MISSBloodBFRight0012" x="6272" y="1520" width="775" height="649" frameX="-1" frameY="-21" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="MISSBloodBFRight0013" x="6272" y="1520" width="775" height="649" frameX="-1" frameY="-21" frameWidth="776" frameHeight="678"/>
+	<SubTexture name="MISSBloodBFUp 0000" x="7047" y="1520" width="816" height="568" frameX="0" frameY="0" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="MISSBloodBFUp 0001" x="0" y="2280" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="MISSBloodBFUp 0002" x="810" y="2280" width="810" height="543" frameX="-6" frameY="-25" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="MISSBloodBFUp 0003" x="0" y="2280" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="MISSBloodBFUp 0004" x="0" y="2280" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="MISSBloodBFUp 0005" x="0" y="2280" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="MISSBloodBFUp 0006" x="0" y="2280" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="MISSBloodBFUp 0007" x="0" y="2280" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="MISSBloodBFUp 0008" x="0" y="2280" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="MISSBloodBFUp 0009" x="0" y="2280" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="MISSBloodBFUp 0010" x="0" y="2280" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="MISSBloodBFUp 0011" x="0" y="2280" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="MISSBloodBFUp 0012" x="0" y="2280" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+	<SubTexture name="MISSBloodBFUp 0013" x="0" y="2280" width="810" height="544" frameX="-15" frameY="-40" frameWidth="825" frameHeight="584"/>
+</TextureAtlas>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GfdedAssets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dancedeadLeft0000" x="0" y="0" width="703" height="568" frameX="0" frameY="-30" frameWidth="703" frameHeight="598"/>
+	<SubTexture name="dancedeadLeft0001" x="0" y="0" width="703" height="568" frameX="0" frameY="-30" frameWidth="703" frameHeight="598"/>
+	<SubTexture name="dancedeadLeft0002" x="703" y="0" width="703" height="580" frameX="0" frameY="-18" frameWidth="703" frameHeight="598"/>
+	<SubTexture name="dancedeadLeft0003" x="1406" y="0" width="703" height="586" frameX="0" frameY="-12" frameWidth="703" frameHeight="598"/>
+	<SubTexture name="dancedeadLeft0004" x="2109" y="0" width="703" height="590" frameX="0" frameY="-8" frameWidth="703" frameHeight="598"/>
+	<SubTexture name="dancedeadLeft0005" x="2812" y="0" width="703" height="596" frameX="0" frameY="-2" frameWidth="703" frameHeight="598"/>
+	<SubTexture name="dancedeadLeft0006" x="0" y="596" width="703" height="598"/>
+	<SubTexture name="dancedeadLeft0007" x="0" y="596" width="703" height="598"/>
+	<SubTexture name="dancedeadLeft0008" x="0" y="596" width="703" height="598"/>
+	<SubTexture name="dancedeadLeft0009" x="0" y="596" width="703" height="598"/>
+	<SubTexture name="dancedeadLeft0010" x="0" y="596" width="703" height="598"/>
+	<SubTexture name="dancedeadLeft0011" x="0" y="596" width="703" height="598"/>
+	<SubTexture name="dancedeadLeft0012" x="0" y="596" width="703" height="598"/>
+	<SubTexture name="dancedeadLeft0013" x="0" y="596" width="703" height="598"/>
+	<SubTexture name="dancedeadLeft0014" x="0" y="596" width="703" height="598"/>
+	<SubTexture name="dancedeadRight0000" x="703" y="596" width="703" height="602" frameX="0" frameY="-5" frameWidth="703" frameHeight="607"/>
+	<SubTexture name="dancedeadRight0001" x="703" y="596" width="703" height="602" frameX="0" frameY="-5" frameWidth="703" frameHeight="607"/>
+	<SubTexture name="dancedeadRight0002" x="1406" y="596" width="703" height="603" frameX="0" frameY="-4" frameWidth="703" frameHeight="607"/>
+	<SubTexture name="dancedeadRight0003" x="2109" y="596" width="703" height="607"/>
+	<SubTexture name="dancedeadRight0004" x="2812" y="596" width="703" height="602" frameX="0" frameY="-5" frameWidth="703" frameHeight="607"/>
+	<SubTexture name="dancedeadRight0005" x="0" y="1203" width="703" height="599" frameX="0" frameY="-8" frameWidth="703" frameHeight="607"/>
+	<SubTexture name="dancedeadRight0006" x="703" y="1203" width="703" height="598" frameX="0" frameY="-9" frameWidth="703" frameHeight="607"/>
+	<SubTexture name="dancedeadRight0007" x="703" y="1203" width="703" height="598" frameX="0" frameY="-9" frameWidth="703" frameHeight="607"/>
+	<SubTexture name="dancedeadRight0008" x="703" y="1203" width="703" height="598" frameX="0" frameY="-9" frameWidth="703" frameHeight="607"/>
+	<SubTexture name="dancedeadRight0009" x="703" y="1203" width="703" height="598" frameX="0" frameY="-9" frameWidth="703" frameHeight="607"/>
+	<SubTexture name="dancedeadRight0010" x="703" y="1203" width="703" height="598" frameX="0" frameY="-9" frameWidth="703" frameHeight="607"/>
+	<SubTexture name="dancedeadRight0011" x="703" y="1203" width="703" height="598" frameX="0" frameY="-9" frameWidth="703" frameHeight="607"/>
+	<SubTexture name="dancedeadRight0012" x="703" y="1203" width="703" height="598" frameX="0" frameY="-9" frameWidth="703" frameHeight="607"/>
+	<SubTexture name="dancedeadRight0013" x="703" y="1203" width="703" height="598" frameX="0" frameY="-9" frameWidth="703" frameHeight="607"/>
+	<SubTexture name="dancedeadRight0014" x="703" y="1203" width="703" height="598" frameX="0" frameY="-9" frameWidth="703" frameHeight="607"/>
+</TextureAtlas>
