@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="UnknownMouseAnimationAssets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="UnknownMouseAnimation0000" x="0" y="0" width="960" height="752" frameX="-22" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0001" x="960" y="0" width="987" height="752" frameX="-5" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0002" x="1947" y="0" width="1018" height="752"/>
+	<SubTexture name="UnknownMouseAnimation0003" x="0" y="0" width="960" height="752" frameX="-20" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0004" x="2965" y="0" width="997" height="752" frameX="-8" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0005" x="3962" y="0" width="968" height="752" frameX="-17" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0006" x="4930" y="0" width="990" height="752" frameX="-11" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0007" x="5920" y="0" width="972" height="752" frameX="-15" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0008" x="6892" y="0" width="994" height="752" frameX="-9" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0009" x="0" y="752" width="983" height="752" frameX="-8" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0010" x="983" y="752" width="982" height="752" frameX="-14" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0011" x="1965" y="752" width="978" height="752" frameX="-11" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0012" x="2943" y="752" width="979" height="752" frameX="-15" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0013" x="3922" y="752" width="967" height="752" frameX="-18" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0014" x="4889" y="752" width="960" height="752" frameX="-22" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0015" x="5849" y="752" width="987" height="752" frameX="-5" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0016" x="6836" y="752" width="1018" height="752"/>
+	<SubTexture name="UnknownMouseAnimation0017" x="0" y="1504" width="966" height="752" frameX="-20" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0018" x="966" y="1504" width="997" height="752" frameX="-8" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0019" x="1963" y="1504" width="968" height="752" frameX="-17" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0020" x="2931" y="1504" width="990" height="752" frameX="-11" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0021" x="3921" y="1504" width="972" height="752" frameX="-15" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0022" x="4893" y="1504" width="994" height="752" frameX="-9" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0023" x="5887" y="1504" width="983" height="752" frameX="-8" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0024" x="6870" y="1504" width="982" height="752" frameX="-14" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0025" x="0" y="2256" width="978" height="752" frameX="-11" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0026" x="978" y="2256" width="979" height="752" frameX="-15" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0027" x="1957" y="2256" width="967" height="752" frameX="-18" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0028" x="2924" y="2256" width="960" height="752" frameX="-22" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0029" x="3884" y="2256" width="987" height="752" frameX="-5" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0030" x="4871" y="2256" width="1018" height="752"/>
+	<SubTexture name="UnknownMouseAnimation0031" x="5889" y="2256" width="966" height="752" frameX="-20" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0032" x="6855" y="2256" width="997" height="752" frameX="-8" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0033" x="0" y="3008" width="968" height="752" frameX="-17" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0034" x="968" y="3008" width="990" height="752" frameX="-11" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0035" x="1958" y="3008" width="972" height="752" frameX="-15" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0036" x="2930" y="3008" width="994" height="752" frameX="-9" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0037" x="3924" y="3008" width="983" height="752" frameX="-8" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0038" x="4907" y="3008" width="982" height="752" frameX="-14" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0039" x="5889" y="3008" width="978" height="752" frameX="-11" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0040" x="6867" y="3008" width="979" height="752" frameX="-15" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0041" x="0" y="3760" width="967" height="752" frameX="-18" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0042" x="967" y="3760" width="960" height="752" frameX="-22" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0043" x="1927" y="3760" width="987" height="752" frameX="-5" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0044" x="2914" y="3760" width="1018" height="752"/>
+	<SubTexture name="UnknownMouseAnimation0045" x="3932" y="3760" width="966" height="752" frameX="-20" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0046" x="4898" y="3760" width="997" height="752" frameX="-8" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0047" x="5895" y="3760" width="968" height="752" frameX="-17" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0048" x="6863" y="3760" width="990" height="752" frameX="-11" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0049" x="0" y="4512" width="972" height="752" frameX="-15" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0050" x="972" y="4512" width="994" height="752" frameX="-9" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0051" x="1966" y="4512" width="983" height="752" frameX="-8" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0052" x="2949" y="4512" width="982" height="752" frameX="-14" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0053" x="3931" y="4512" width="978" height="752" frameX="-11" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0054" x="4909" y="4512" width="979" height="752" frameX="-15" frameY="0" frameWidth="1018" frameHeight="752"/>
+	<SubTexture name="UnknownMouseAnimation0055" x="5888" y="4512" width="967" height="752" frameX="-18" frameY="0" frameWidth="1018" frameHeight="752"/>
+</TextureAtlas>

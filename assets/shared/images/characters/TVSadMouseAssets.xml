@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TVSadMouseAssets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TVSadMouseDown0000" x="0" y="0" width="920" height="1207" frameX="-126" frameY="-93" frameWidth="1046" frameHeight="1300"/>
+	<SubTexture name="TVSadMouseDown0001" x="920" y="0" width="940" height="995" frameX="-96" frameY="-117" frameWidth="1046" frameHeight="1300"/>
+	<SubTexture name="TVSadMouseDown0002" x="1860" y="0" width="1000" height="888" frameX="-36" frameY="-89" frameWidth="1046" frameHeight="1300"/>
+	<SubTexture name="TVSadMouseDown0003" x="2860" y="0" width="1010" height="878" frameX="0" frameY="-27" frameWidth="1046" frameHeight="1300"/>
+	<SubTexture name="TVSadMouseDown0004" x="3870" y="0" width="990" height="837" frameX="-30" frameY="-26" frameWidth="1046" frameHeight="1300"/>
+	<SubTexture name="TVSadMouseDown0005" x="4860" y="0" width="1010" height="815" frameX="-20" frameY="-23" frameWidth="1046" frameHeight="1300"/>
+	<SubTexture name="TVSadMouseDown0006" x="5870" y="0" width="1000" height="826" frameX="-30" frameY="-22" frameWidth="1046" frameHeight="1300"/>
+	<SubTexture name="TVSadMouseDown0007" x="6870" y="0" width="942" height="903" frameX="-64" frameY="-36" frameWidth="1046" frameHeight="1300"/>
+	<SubTexture name="TVSadMouseDown0008" x="0" y="1207" width="856" height="956" frameX="-140" frameY="-50" frameWidth="1046" frameHeight="1300"/>
+	<SubTexture name="TVSadMouseDown0009" x="856" y="1207" width="890" height="946" frameX="-115" frameY="-39" frameWidth="1046" frameHeight="1300"/>
+	<SubTexture name="TVSadMouseDown0010" x="1746" y="1207" width="898" height="923" frameX="-98" frameY="-18" frameWidth="1046" frameHeight="1300"/>
+	<SubTexture name="TVSadMouseDown0011" x="2644" y="1207" width="926" height="981" frameX="-79" frameY="0" frameWidth="1046" frameHeight="1300"/>
+	<SubTexture name="TVSadMouseDown0012" x="3570" y="1207" width="852" height="930" frameX="-116" frameY="-16" frameWidth="1046" frameHeight="1300"/>
+	<SubTexture name="TVSadMouseDown0013" x="4422" y="1207" width="928" height="975" frameX="-85" frameY="-1" frameWidth="1046" frameHeight="1300"/>
+	<SubTexture name="TVSadMouseIdle0000" x="5350" y="1207" width="916" height="673" frameX="-46" frameY="-61" frameWidth="1025" frameHeight="754"/>
+	<SubTexture name="TVSadMouseIdle0001" x="6266" y="1207" width="966" height="754" frameX="-59" frameY="0" frameWidth="1025" frameHeight="754"/>
+	<SubTexture name="TVSadMouseIdle0002" x="7232" y="1207" width="943" height="746" frameX="-7" frameY="0" frameWidth="1025" frameHeight="754"/>
+	<SubTexture name="TVSadMouseIdle0003" x="0" y="2188" width="955" height="718" frameX="-15" frameY="-29" frameWidth="1025" frameHeight="754"/>
+	<SubTexture name="TVSadMouseIdle0004" x="955" y="2188" width="941" height="739" frameX="0" frameY="-9" frameWidth="1025" frameHeight="754"/>
+	<SubTexture name="TVSadMouseLeft0000" x="1896" y="2188" width="954" height="816" frameX="0" frameY="-14" frameWidth="1099" frameHeight="830"/>
+	<SubTexture name="TVSadMouseLeft0001" x="2850" y="2188" width="805" height="721" frameX="-186" frameY="-30" frameWidth="1099" frameHeight="830"/>
+	<SubTexture name="TVSadMouseLeft0002" x="3655" y="2188" width="782" height="674" frameX="-277" frameY="-27" frameWidth="1099" frameHeight="830"/>
+	<SubTexture name="TVSadMouseLeft0003" x="4437" y="2188" width="829" height="709" frameX="-260" frameY="-15" frameWidth="1099" frameHeight="830"/>
+	<SubTexture name="TVSadMouseLeft0004" x="5266" y="2188" width="797" height="705" frameX="-284" frameY="-1" frameWidth="1099" frameHeight="830"/>
+	<SubTexture name="TVSadMouseLeft0005" x="6063" y="2188" width="820" height="697" frameX="-263" frameY="-16" frameWidth="1099" frameHeight="830"/>
+	<SubTexture name="TVSadMouseLeft0006" x="6883" y="2188" width="796" height="703" frameX="-275" frameY="-16" frameWidth="1099" frameHeight="830"/>
+	<SubTexture name="TVSadMouseLeft0007" x="0" y="3004" width="830" height="711" frameX="-269" frameY="0" frameWidth="1099" frameHeight="830"/>
+	<SubTexture name="TVSadMouseLeft0008" x="830" y="3004" width="787" height="691" frameX="-278" frameY="-17" frameWidth="1099" frameHeight="830"/>
+	<SubTexture name="TVSadMouseLeft0009" x="4437" y="2188" width="829" height="709" frameX="-260" frameY="-15" frameWidth="1099" frameHeight="830"/>
+	<SubTexture name="TVSadMouseLeft0010" x="5266" y="2188" width="797" height="705" frameX="-284" frameY="-1" frameWidth="1099" frameHeight="830"/>
+	<SubTexture name="TVSadMouseLeft0011" x="6063" y="2188" width="820" height="697" frameX="-263" frameY="-16" frameWidth="1099" frameHeight="830"/>
+	<SubTexture name="TVSadMouseLeft0012" x="6883" y="2188" width="796" height="703" frameX="-275" frameY="-16" frameWidth="1099" frameHeight="830"/>
+	<SubTexture name="TVSadMouseLeft0013" x="0" y="3004" width="830" height="711" frameX="-269" frameY="0" frameWidth="1099" frameHeight="830"/>
+	<SubTexture name="TVSadMouseRight0000" x="1617" y="3004" width="1014" height="837" frameX="-32" frameY="-30" frameWidth="1046" frameHeight="867"/>
+	<SubTexture name="TVSadMouseRight0001" x="2631" y="3004" width="842" height="728" frameX="-63" frameY="-37" frameWidth="1046" frameHeight="867"/>
+	<SubTexture name="TVSadMouseRight0002" x="3473" y="3004" width="889" height="718" frameX="-29" frameY="-25" frameWidth="1046" frameHeight="867"/>
+	<SubTexture name="TVSadMouseRight0003" x="4362" y="3004" width="848" height="753" frameX="-15" frameY="-1" frameWidth="1046" frameHeight="867"/>
+	<SubTexture name="TVSadMouseRight0004" x="5210" y="3004" width="867" height="739" frameX="-4" frameY="-5" frameWidth="1046" frameHeight="867"/>
+	<SubTexture name="TVSadMouseRight0005" x="6077" y="3004" width="835" height="729" frameX="-26" frameY="-22" frameWidth="1046" frameHeight="867"/>
+	<SubTexture name="TVSadMouseRight0006" x="6912" y="3004" width="882" height="758" frameX="0" frameY="0" frameWidth="1046" frameHeight="867"/>
+	<SubTexture name="TVSadMouseRight0007" x="0" y="3841" width="833" height="734" frameX="-19" frameY="-6" frameWidth="1046" frameHeight="867"/>
+	<SubTexture name="TVSadMouseRight0008" x="833" y="3841" width="869" height="734" frameX="-11" frameY="-21" frameWidth="1046" frameHeight="867"/>
+	<SubTexture name="TVSadMouseRight0009" x="1702" y="3841" width="848" height="753" frameX="-15" frameY="-1" frameWidth="1046" frameHeight="867"/>
+	<SubTexture name="TVSadMouseRight0010" x="5210" y="3004" width="867" height="739" frameX="-4" frameY="-5" frameWidth="1046" frameHeight="867"/>
+	<SubTexture name="TVSadMouseRight0011" x="2550" y="3841" width="835" height="729" frameX="-26" frameY="-22" frameWidth="1046" frameHeight="867"/>
+	<SubTexture name="TVSadMouseRight0012" x="6912" y="3004" width="882" height="758" frameX="0" frameY="0" frameWidth="1046" frameHeight="867"/>
+	<SubTexture name="TVSadMouseRight0013" x="6912" y="3004" width="882" height="758" frameX="0" frameY="0" frameWidth="1046" frameHeight="867"/>
+	<SubTexture name="TVSadMouseUp0000" x="3385" y="3841" width="1563" height="884" frameX="-28" frameY="0" frameWidth="1591" frameHeight="991"/>
+	<SubTexture name="TVSadMouseUp0001" x="4948" y="3841" width="1416" height="723" frameX="-50" frameY="-131" frameWidth="1591" frameHeight="991"/>
+	<SubTexture name="TVSadMouseUp0002" x="6364" y="3841" width="1508" height="744" frameX="-40" frameY="-188" frameWidth="1591" frameHeight="991"/>
+	<SubTexture name="TVSadMouseUp0003" x="0" y="4725" width="1311" height="810" frameX="0" frameY="-158" frameWidth="1591" frameHeight="991"/>
+	<SubTexture name="TVSadMouseUp0004" x="1311" y="4725" width="1230" height="759" frameX="-15" frameY="-232" frameWidth="1591" frameHeight="991"/>
+	<SubTexture name="TVSadMouseUp0005" x="2541" y="4725" width="1198" height="775" frameX="-39" frameY="-195" frameWidth="1591" frameHeight="991"/>
+	<SubTexture name="TVSadMouseUp0006" x="3739" y="4725" width="1281" height="767" frameX="-12" frameY="-210" frameWidth="1591" frameHeight="991"/>
+	<SubTexture name="TVSadMouseUp0007" x="5020" y="4725" width="1224" height="736" frameX="-16" frameY="-242" frameWidth="1591" frameHeight="991"/>
+	<SubTexture name="TVSadMouseUp0008" x="6244" y="4725" width="1204" height="799" frameX="-38" frameY="-185" frameWidth="1591" frameHeight="991"/>
+	<SubTexture name="TVSadMouseUp0009" x="0" y="5535" width="1275" height="743" frameX="-13" frameY="-220" frameWidth="1591" frameHeight="991"/>
+	<SubTexture name="TVSadMouseUp0010" x="1311" y="4725" width="1230" height="759" frameX="-15" frameY="-232" frameWidth="1591" frameHeight="991"/>
+	<SubTexture name="TVSadMouseUp0011" x="2541" y="4725" width="1198" height="775" frameX="-39" frameY="-195" frameWidth="1591" frameHeight="991"/>
+	<SubTexture name="TVSadMouseUp0012" x="3739" y="4725" width="1281" height="767" frameX="-12" frameY="-210" frameWidth="1591" frameHeight="991"/>
+	<SubTexture name="TVSadMouseUp0013" x="5020" y="4725" width="1224" height="736" frameX="-16" frameY="-242" frameWidth="1591" frameHeight="991"/>
+</TextureAtlas>
