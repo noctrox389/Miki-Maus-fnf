@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PNMGFAssets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PNMGFLeft0000" x="0" y="0" width="766" height="707" frameX="-70" frameY="-50" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFLeft0001" x="766" y="0" width="824" height="757" frameX="-24" frameY="0" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFLeft0002" x="1590" y="0" width="799" height="729" frameX="-37" frameY="-28" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFLeft0003" x="2389" y="0" width="773" height="710" frameX="-64" frameY="-47" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFLeft0004" x="3162" y="0" width="833" height="745" frameX="-4" frameY="-12" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFLeft0005" x="0" y="757" width="773" height="724" frameX="-64" frameY="-33" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFLeft0006" x="773" y="757" width="779" height="723" frameX="-67" frameY="-34" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFLeft0007" x="1552" y="757" width="770" height="707" frameX="-66" frameY="-50" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFLeft0008" x="2322" y="757" width="820" height="757" frameX="-28" frameY="0" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFLeft0009" x="3142" y="757" width="803" height="729" frameX="-33" frameY="-28" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFLeft0010" x="0" y="1514" width="769" height="710" frameX="-68" frameY="-47" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFLeft0011" x="769" y="1514" width="837" height="745" frameX="0" frameY="-12" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFLeft0012" x="1606" y="1514" width="769" height="724" frameX="-68" frameY="-33" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFLeft0013" x="2375" y="1514" width="783" height="723" frameX="-63" frameY="-34" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFRight0000" x="0" y="0" width="766" height="707" frameX="-70" frameY="-50" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFRight0001" x="766" y="0" width="824" height="757" frameX="-24" frameY="0" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFRight0002" x="1590" y="0" width="799" height="729" frameX="-37" frameY="-28" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFRight0003" x="2389" y="0" width="773" height="710" frameX="-64" frameY="-47" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFRight0004" x="3162" y="0" width="833" height="745" frameX="-4" frameY="-12" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFRight0005" x="0" y="757" width="773" height="724" frameX="-64" frameY="-33" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFRight0006" x="773" y="757" width="779" height="723" frameX="-67" frameY="-34" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFRight0007" x="1552" y="757" width="770" height="707" frameX="-66" frameY="-50" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFRight0008" x="2322" y="757" width="820" height="757" frameX="-28" frameY="0" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFRight0009" x="3142" y="757" width="803" height="729" frameX="-33" frameY="-28" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFRight0010" x="0" y="1514" width="769" height="710" frameX="-68" frameY="-47" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFRight0011" x="769" y="1514" width="837" height="745" frameX="0" frameY="-12" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFRight0012" x="1606" y="1514" width="769" height="724" frameX="-68" frameY="-33" frameWidth="848" frameHeight="757"/>
+	<SubTexture name="PNMGFRight0013" x="2375" y="1514" width="783" height="723" frameX="-63" frameY="-34" frameWidth="848" frameHeight="757"/>
+</TextureAtlas>
