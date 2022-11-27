@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RemakeSadMouseAssets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SadMouseAnimation10000" x="0" y="0" width="591" height="536" frameX="-12" frameY="-7" frameWidth="615" frameHeight="543"/>
+	<SubTexture name="SadMouseAnimation10001" x="591" y="0" width="600" height="543" frameX="-12" frameY="0" frameWidth="615" frameHeight="543"/>
+	<SubTexture name="SadMouseAnimation10002" x="1191" y="0" width="612" height="543" frameX="0" frameY="0" frameWidth="615" frameHeight="543"/>
+	<SubTexture name="SadMouseAnimation10003" x="1803" y="0" width="595" height="537" frameX="-9" frameY="-6" frameWidth="615" frameHeight="543"/>
+	<SubTexture name="SadMouseAnimation10004" x="2398" y="0" width="611" height="543" frameX="-4" frameY="0" frameWidth="615" frameHeight="543"/>
+	<SubTexture name="SadMouseAnimation10005" x="3009" y="0" width="594" height="542" frameX="-13" frameY="-1" frameWidth="615" frameHeight="543"/>
+	<SubTexture name="SadMouseAnimation20000" x="0" y="543" width="591" height="531" frameX="-12" frameY="-8" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20001" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20002" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20003" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20004" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20005" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20006" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20007" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20008" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20009" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20010" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20011" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20012" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20013" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20014" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20015" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20016" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20017" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20018" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20019" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20020" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20021" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20022" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20023" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20024" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20025" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20026" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20027" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20028" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20029" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20030" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20031" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20032" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20033" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20034" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20035" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20036" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20037" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20038" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20039" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20040" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20041" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20042" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20043" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20044" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20045" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20046" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20047" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20048" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20049" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20050" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20051" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20052" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20053" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20054" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20055" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20056" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20057" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20058" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20059" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20060" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20061" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20062" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20063" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20064" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20065" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20066" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20067" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20068" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20069" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20070" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20071" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20072" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20073" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20074" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20075" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20076" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20077" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20078" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20079" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20080" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20081" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20082" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20083" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20084" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20085" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20086" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20087" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20088" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20089" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20090" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20091" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20092" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20093" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20094" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20095" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20096" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20097" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20098" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20099" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20100" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20101" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20102" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20103" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20104" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20105" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20106" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20107" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20108" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20109" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20110" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20111" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20112" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20113" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20114" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20115" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20116" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20117" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20118" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20119" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20120" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20121" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20122" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20123" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20124" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20125" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20126" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20127" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20128" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20129" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20130" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20131" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20132" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20133" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20134" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20135" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20136" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20137" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20138" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20139" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20140" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20141" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20142" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20143" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20144" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20145" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20146" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20147" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20148" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20149" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20150" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20151" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20152" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20153" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20154" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20155" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20156" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20157" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20158" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20159" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20160" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20161" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20162" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20163" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20164" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20165" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20166" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20167" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20168" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20169" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20170" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20171" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20172" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20173" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20174" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20175" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20176" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20177" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20178" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20179" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20180" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20181" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20182" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20183" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20184" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20185" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20186" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20187" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20188" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20189" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20190" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20191" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20192" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20193" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20194" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20195" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20196" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20197" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20198" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20199" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20200" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20201" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20202" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20203" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20204" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20205" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20206" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20207" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20208" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20209" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20210" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20211" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20212" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20213" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20214" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20215" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20216" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20217" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20218" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20219" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20220" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20221" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20222" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20223" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20224" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20225" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20226" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20227" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20228" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20229" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20230" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20231" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20232" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20233" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20234" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20235" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20236" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20237" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20238" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20239" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20240" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20241" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20242" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20243" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20244" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20245" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20246" x="591" y="543" width="628" height="515" frameX="-12" frameY="-24" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20247" x="1219" y="543" width="661" height="539"/>
+	<SubTexture name="SadMouseAnimation20248" x="1880" y="543" width="636" height="520" frameX="-9" frameY="-19" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20249" x="2516" y="543" width="653" height="534" frameX="-4" frameY="-5" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseAnimation20250" x="3169" y="543" width="635" height="523" frameX="-13" frameY="-16" frameWidth="661" frameHeight="539"/>
+	<SubTexture name="SadMouseDown0000" x="0" y="1082" width="574" height="562" frameX="0" frameY="-32" frameWidth="574" frameHeight="594"/>
+	<SubTexture name="SadMouseDown0001" x="574" y="1082" width="574" height="567" frameX="0" frameY="-27" frameWidth="574" frameHeight="594"/>
+	<SubTexture name="SadMouseDown0002" x="1148" y="1082" width="555" height="594" frameX="0" frameY="0" frameWidth="574" frameHeight="594"/>
+	<SubTexture name="SadMouseDown0003" x="1703" y="1082" width="555" height="589" frameX="0" frameY="-5" frameWidth="574" frameHeight="594"/>
+	<SubTexture name="SadMouseDown0004" x="2258" y="1082" width="555" height="592" frameX="0" frameY="-2" frameWidth="574" frameHeight="594"/>
+	<SubTexture name="SadMouseDown0005" x="2813" y="1082" width="555" height="594" frameX="0" frameY="0" frameWidth="574" frameHeight="594"/>
+	<SubTexture name="SadMouseDown0006" x="2813" y="1082" width="555" height="594" frameX="0" frameY="0" frameWidth="574" frameHeight="594"/>
+	<SubTexture name="SadMouseDown0007" x="2813" y="1082" width="555" height="594" frameX="0" frameY="0" frameWidth="574" frameHeight="594"/>
+	<SubTexture name="SadMouseDown0008" x="2813" y="1082" width="555" height="594" frameX="0" frameY="0" frameWidth="574" frameHeight="594"/>
+	<SubTexture name="SadMouseDown0009" x="2813" y="1082" width="555" height="594" frameX="0" frameY="0" frameWidth="574" frameHeight="594"/>
+	<SubTexture name="SadMouseDown0010" x="2813" y="1082" width="555" height="594" frameX="0" frameY="0" frameWidth="574" frameHeight="594"/>
+	<SubTexture name="SadMouseDown0011" x="2813" y="1082" width="555" height="594" frameX="0" frameY="0" frameWidth="574" frameHeight="594"/>
+	<SubTexture name="SadMouseDown0012" x="2813" y="1082" width="555" height="594" frameX="0" frameY="0" frameWidth="574" frameHeight="594"/>
+	<SubTexture name="SadMouseDown0013" x="2813" y="1082" width="555" height="594" frameX="0" frameY="0" frameWidth="574" frameHeight="594"/>
+	<SubTexture name="SadMouseIdle0000" x="3368" y="1082" width="667" height="664" frameX="0" frameY="0" frameWidth="667" frameHeight="665"/>
+	<SubTexture name="SadMouseIdle0001" x="3368" y="1082" width="667" height="664" frameX="0" frameY="0" frameWidth="667" frameHeight="665"/>
+	<SubTexture name="SadMouseIdle0002" x="0" y="1746" width="633" height="658" frameX="0" frameY="-7" frameWidth="667" frameHeight="665"/>
+	<SubTexture name="SadMouseIdle0003" x="0" y="1746" width="633" height="658" frameX="0" frameY="-7" frameWidth="667" frameHeight="665"/>
+	<SubTexture name="SadMouseIdle0004" x="633" y="1746" width="607" height="652" frameX="0" frameY="-13" frameWidth="667" frameHeight="665"/>
+	<SubTexture name="SadMouseIdle0005" x="633" y="1746" width="607" height="652" frameX="0" frameY="-13" frameWidth="667" frameHeight="665"/>
+	<SubTexture name="SadMouseIdle0006" x="1240" y="1746" width="599" height="652" frameX="0" frameY="-13" frameWidth="667" frameHeight="665"/>
+	<SubTexture name="SadMouseIdle0007" x="1240" y="1746" width="599" height="652" frameX="0" frameY="-13" frameWidth="667" frameHeight="665"/>
+	<SubTexture name="SadMouseIdle0008" x="1240" y="1746" width="599" height="652" frameX="0" frameY="-12" frameWidth="667" frameHeight="665"/>
+	<SubTexture name="SadMouseIdle0009" x="1240" y="1746" width="599" height="652" frameX="0" frameY="-12" frameWidth="667" frameHeight="665"/>
+	<SubTexture name="SadMouseIdle0010" x="1240" y="1746" width="599" height="652" frameX="0" frameY="-12" frameWidth="667" frameHeight="665"/>
+	<SubTexture name="SadMouseIdle0011" x="1240" y="1746" width="599" height="652" frameX="0" frameY="-12" frameWidth="667" frameHeight="665"/>
+	<SubTexture name="SadMouseIdle0012" x="1240" y="1746" width="599" height="652" frameX="0" frameY="-12" frameWidth="667" frameHeight="665"/>
+	<SubTexture name="SadMouseIdle0013" x="1240" y="1746" width="599" height="652" frameX="0" frameY="-12" frameWidth="667" frameHeight="665"/>
+	<SubTexture name="SadMouseLeft0000" x="1839" y="1746" width="583" height="691" frameX="0" frameY="0" frameWidth="584" frameHeight="691"/>
+	<SubTexture name="SadMouseLeft0001" x="2422" y="1746" width="570" height="673" frameX="-14" frameY="-18" frameWidth="584" frameHeight="691"/>
+	<SubTexture name="SadMouseLeft0002" x="2422" y="1746" width="570" height="673" frameX="-14" frameY="-18" frameWidth="584" frameHeight="691"/>
+	<SubTexture name="SadMouseLeft0003" x="2992" y="1746" width="564" height="670" frameX="-20" frameY="-21" frameWidth="584" frameHeight="691"/>
+	<SubTexture name="SadMouseLeft0004" x="2992" y="1746" width="564" height="670" frameX="-20" frameY="-21" frameWidth="584" frameHeight="691"/>
+	<SubTexture name="SadMouseLeft0005" x="0" y="2437" width="561" height="666" frameX="-22" frameY="-25" frameWidth="584" frameHeight="691"/>
+	<SubTexture name="SadMouseLeft0006" x="0" y="2437" width="561" height="666" frameX="-22" frameY="-25" frameWidth="584" frameHeight="691"/>
+	<SubTexture name="SadMouseLeft0007" x="0" y="2437" width="561" height="666" frameX="-22" frameY="-25" frameWidth="584" frameHeight="691"/>
+	<SubTexture name="SadMouseLeft0008" x="0" y="2437" width="561" height="666" frameX="-22" frameY="-25" frameWidth="584" frameHeight="691"/>
+	<SubTexture name="SadMouseLeft0009" x="0" y="2437" width="561" height="666" frameX="-22" frameY="-25" frameWidth="584" frameHeight="691"/>
+	<SubTexture name="SadMouseLeft0010" x="0" y="2437" width="561" height="666" frameX="-22" frameY="-25" frameWidth="584" frameHeight="691"/>
+	<SubTexture name="SadMouseLeft0011" x="0" y="2437" width="561" height="666" frameX="-22" frameY="-25" frameWidth="584" frameHeight="691"/>
+	<SubTexture name="SadMouseLeft0012" x="0" y="2437" width="561" height="666" frameX="-22" frameY="-25" frameWidth="584" frameHeight="691"/>
+	<SubTexture name="SadMouseLeft0013" x="0" y="2437" width="561" height="666" frameX="-22" frameY="-25" frameWidth="584" frameHeight="691"/>
+	<SubTexture name="SadMouseRight0000" x="561" y="2437" width="789" height="667" frameX="0" frameY="-15" frameWidth="831" frameHeight="682"/>
+	<SubTexture name="SadMouseRight0001" x="1350" y="2437" width="813" height="678" frameX="0" frameY="-4" frameWidth="831" frameHeight="682"/>
+	<SubTexture name="SadMouseRight0002" x="1350" y="2437" width="813" height="678" frameX="0" frameY="-4" frameWidth="831" frameHeight="682"/>
+	<SubTexture name="SadMouseRight0003" x="2163" y="2437" width="831" height="682"/>
+	<SubTexture name="SadMouseRight0004" x="2163" y="2437" width="831" height="682"/>
+	<SubTexture name="SadMouseRight0005" x="2994" y="2437" width="657" height="682" frameX="0" frameY="0" frameWidth="831" frameHeight="682"/>
+	<SubTexture name="SadMouseRight0006" x="2994" y="2437" width="657" height="682" frameX="0" frameY="0" frameWidth="831" frameHeight="682"/>
+	<SubTexture name="SadMouseRight0007" x="2994" y="2437" width="657" height="682" frameX="0" frameY="0" frameWidth="831" frameHeight="682"/>
+	<SubTexture name="SadMouseRight0008" x="2994" y="2437" width="657" height="682" frameX="0" frameY="0" frameWidth="831" frameHeight="682"/>
+	<SubTexture name="SadMouseRight0009" x="2994" y="2437" width="657" height="682" frameX="0" frameY="0" frameWidth="831" frameHeight="682"/>
+	<SubTexture name="SadMouseRight0010" x="2994" y="2437" width="657" height="682" frameX="0" frameY="0" frameWidth="831" frameHeight="682"/>
+	<SubTexture name="SadMouseRight0011" x="2994" y="2437" width="657" height="682" frameX="0" frameY="0" frameWidth="831" frameHeight="682"/>
+	<SubTexture name="SadMouseRight0012" x="2994" y="2437" width="657" height="682" frameX="0" frameY="0" frameWidth="831" frameHeight="682"/>
+	<SubTexture name="SadMouseRight0013" x="2994" y="2437" width="657" height="682" frameX="0" frameY="0" frameWidth="831" frameHeight="682"/>
+	<SubTexture name="SadMouseUp0000" x="0" y="3119" width="583" height="732" frameX="0" frameY="0" frameWidth="622" frameHeight="732"/>
+	<SubTexture name="SadMouseUp0001" x="583" y="3119" width="604" height="704" frameX="0" frameY="-28" frameWidth="622" frameHeight="732"/>
+	<SubTexture name="SadMouseUp0002" x="583" y="3119" width="604" height="704" frameX="0" frameY="-28" frameWidth="622" frameHeight="732"/>
+	<SubTexture name="SadMouseUp0003" x="1187" y="3119" width="622" height="685" frameX="0" frameY="-47" frameWidth="622" frameHeight="732"/>
+	<SubTexture name="SadMouseUp0004" x="1187" y="3119" width="622" height="685" frameX="0" frameY="-47" frameWidth="622" frameHeight="732"/>
+	<SubTexture name="SadMouseUp0005" x="1809" y="3119" width="530" height="676" frameX="0" frameY="-56" frameWidth="622" frameHeight="732"/>
+	<SubTexture name="SadMouseUp0006" x="1809" y="3119" width="530" height="676" frameX="0" frameY="-56" frameWidth="622" frameHeight="732"/>
+	<SubTexture name="SadMouseUp0007" x="1809" y="3119" width="530" height="676" frameX="0" frameY="-56" frameWidth="622" frameHeight="732"/>
+	<SubTexture name="SadMouseUp0008" x="1809" y="3119" width="530" height="676" frameX="0" frameY="-56" frameWidth="622" frameHeight="732"/>
+	<SubTexture name="SadMouseUp0009" x="1809" y="3119" width="530" height="676" frameX="0" frameY="-56" frameWidth="622" frameHeight="732"/>
+	<SubTexture name="SadMouseUp0010" x="1809" y="3119" width="530" height="676" frameX="0" frameY="-56" frameWidth="622" frameHeight="732"/>
+	<SubTexture name="SadMouseUp0011" x="1809" y="3119" width="530" height="676" frameX="0" frameY="-56" frameWidth="622" frameHeight="732"/>
+	<SubTexture name="SadMouseUp0012" x="1809" y="3119" width="530" height="676" frameX="0" frameY="-56" frameWidth="622" frameHeight="732"/>
+	<SubTexture name="SadMouseUp0013" x="1809" y="3119" width="530" height="676" frameX="0" frameY="-56" frameWidth="622" frameHeight="732"/>
+</TextureAtlas>
