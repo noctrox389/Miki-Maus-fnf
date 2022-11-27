@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HappyMouseRunning.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HappyMouseJumpscare0000" x="0" y="0" width="868" height="856" frameX="-641" frameY="-405" frameWidth="2118" frameHeight="2130"/>
+	<SubTexture name="HappyMouseJumpscare0001" x="868" y="0" width="870" height="894" frameX="-649" frameY="-399" frameWidth="2118" frameHeight="2130"/>
+	<SubTexture name="HappyMouseJumpscare0002" x="1738" y="0" width="1182" height="993" frameX="-494" frameY="-388" frameWidth="2118" frameHeight="2130"/>
+	<SubTexture name="HappyMouseJumpscare0003" x="2920" y="0" width="1008" height="1047" frameX="-542" frameY="-388" frameWidth="2118" frameHeight="2130"/>
+	<SubTexture name="HappyMouseJumpscare0004" x="3928" y="0" width="1163" height="1096" frameX="-477" frameY="-382" frameWidth="2118" frameHeight="2130"/>
+	<SubTexture name="HappyMouseJumpscare0005" x="5091" y="0" width="1155" height="1123" frameX="-466" frameY="-381" frameWidth="2118" frameHeight="2130"/>
+	<SubTexture name="HappyMouseJumpscare0006" x="6246" y="0" width="1572" height="1299" frameX="-289" frameY="-285" frameWidth="2118" frameHeight="2130"/>
+	<SubTexture name="HappyMouseJumpscare0007" x="0" y="1299" width="1362" height="1319" frameX="-394" frameY="-293" frameWidth="2118" frameHeight="2130"/>
+	<SubTexture name="HappyMouseJumpscare0008" x="1362" y="1299" width="1429" height="1440" frameX="-369" frameY="-240" frameWidth="2118" frameHeight="2130"/>
+	<SubTexture name="HappyMouseJumpscare0009" x="2791" y="1299" width="1782" height="1663" frameX="-194" frameY="-155" frameWidth="2118" frameHeight="2130"/>
+	<SubTexture name="HappyMouseJumpscare0010" x="4573" y="1299" width="1752" height="1818" frameX="-170" frameY="-122" frameWidth="2118" frameHeight="2130"/>
+	<SubTexture name="HappyMouseJumpscare0011" x="0" y="3117" width="2118" height="2130"/>
+</TextureAtlas>
