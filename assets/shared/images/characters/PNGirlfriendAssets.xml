@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PNGirlfriendAssets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PNGFLeft0000" x="0" y="0" width="703" height="770"/>
+	<SubTexture name="PNGFLeft0001" x="0" y="0" width="703" height="770"/>
+	<SubTexture name="PNGFLeft0002" x="703" y="0" width="701" height="770" frameX="-1" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFLeft0003" x="703" y="0" width="701" height="770" frameX="-1" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFLeft0004" x="1404" y="0" width="699" height="770" frameX="-2" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFLeft0005" x="1404" y="0" width="699" height="770" frameX="-2" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFLeft0006" x="2103" y="0" width="698" height="770" frameX="-2" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFLeft0007" x="2103" y="0" width="698" height="770" frameX="-2" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFLeft0008" x="2801" y="0" width="695" height="770" frameX="-4" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFLeft0009" x="2801" y="0" width="695" height="770" frameX="-4" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFLeft0010" x="2801" y="0" width="695" height="770" frameX="-4" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFLeft0011" x="2801" y="0" width="695" height="770" frameX="-4" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFLeft0012" x="2801" y="0" width="695" height="770" frameX="-4" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFLeft0013" x="2801" y="0" width="695" height="770" frameX="-4" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFLeft0014" x="2801" y="0" width="695" height="770" frameX="-4" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFRight0000" x="0" y="770" width="703" height="770"/>
+	<SubTexture name="PNGFRight0001" x="0" y="770" width="703" height="770"/>
+	<SubTexture name="PNGFRight0002" x="703" y="770" width="701" height="770" frameX="-1" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFRight0003" x="703" y="770" width="701" height="770" frameX="-1" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFRight0004" x="1404" y="770" width="699" height="770" frameX="-2" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFRight0005" x="1404" y="770" width="699" height="770" frameX="-2" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFRight0006" x="2103" y="770" width="698" height="770" frameX="-2" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFRight0007" x="2103" y="770" width="698" height="770" frameX="-2" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFRight0008" x="2801" y="770" width="695" height="770" frameX="-4" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFRight0009" x="2801" y="770" width="695" height="770" frameX="-4" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFRight0010" x="0" y="1540" width="695" height="770" frameX="-4" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFRight0011" x="0" y="1540" width="695" height="770" frameX="-4" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFRight0012" x="0" y="1540" width="695" height="770" frameX="-4" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFRight0013" x="2801" y="770" width="695" height="770" frameX="-4" frameY="0" frameWidth="703" frameHeight="770"/>
+	<SubTexture name="PNGFRight0014" x="2801" y="770" width="695" height="770" frameX="-4" frameY="0" frameWidth="703" frameHeight="770"/>
+</TextureAtlas>
