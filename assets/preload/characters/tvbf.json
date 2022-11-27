@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TVBFIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				51
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TVBFLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TVBFDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				48
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TVBFUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				45
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TVBFRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				51
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISSTVBFLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISSTVBFDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				48
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISSTVBFUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				44
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISSTVBFRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TVBFAssets",
+	"position": [
+		-680,
+		430
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		72,
+		72,
+		72
+	],
+	"camera_position": [
+		-140,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

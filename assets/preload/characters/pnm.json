@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PNMIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				100
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PNMLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PNMDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				174,
+				130
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PNMUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				77
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PNMRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				41,
+				242
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Animation",
+			"indices": [],
+			"name": "PNMAnimation"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RemakePNMAssets",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "photonegative",
+	"flip_x": false,
+	"healthbar_colors": [
+		38,
+		29,
+		129
+	],
+	"camera_position": [
+		-70,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

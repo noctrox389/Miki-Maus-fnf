@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				57
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SadMouseRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				80
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SadMouseLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SadMouseDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				85
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SadMouseUp",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				111,
+				91
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MickeySusIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				164,
+				109
+			],
+			"anim": "Animation",
+			"fps": 24,
+			"name": "MickeySusAnimation",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				163,
+				174
+			],
+			"anim": "Jumpscare",
+			"fps": 24,
+			"name": "MickeySusJumpscare",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MickeySusAssets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bloodstrangemouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		0,
+		0
+	],
+	"camera_position": [
+		-320,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				91,
+				30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "StrangeSadMouseIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				373,
+				185
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "StrangeSadMouseRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				442,
+				87
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "StrangeSadMouseLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				400,
+				30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "StrangeSadMouseDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				207,
+				531
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "StrangeSadMouseUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/StrangeSadMouseAssets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "SadMouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		99,
+		99,
+		99
+	],
+	"camera_position": [
+		60,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

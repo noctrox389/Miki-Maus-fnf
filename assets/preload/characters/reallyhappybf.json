@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				75,
+				47
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ReallyHappyBFLeft"
+		},
+		{
+			"offsets": [
+				-20,
+				62
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "ReallyHappyBFDown"
+		},
+		{
+			"offsets": [
+				-66,
+				67
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ReallyHappyBFUp"
+		},
+		{
+			"offsets": [
+				-38,
+				33
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ReallyHappyBFRight"
+		},
+		{
+			"offsets": [
+				47,
+				49
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "MISSReallyHappyBFLeft"
+		},
+		{
+			"offsets": [
+				-45,
+				51
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "MISSReallyHappyBFDown"
+		},
+		{
+			"offsets": [
+				-66,
+				71
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "MISSReallyHappyBFUp"
+		},
+		{
+			"offsets": [
+				-43,
+				29
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "MISSReallyHappyBFRight"
+		},
+		{
+			"offsets": [
+				-5,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "ReallyHappyBFIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ReallyHappyBFAssets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		72,
+		72,
+		72
+	],
+	"camera_position": [
+		320,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

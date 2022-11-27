@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				90,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SadMouseRight"
+		},
+		{
+			"offsets": [
+				231,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SadMouseLeft"
+		},
+		{
+			"offsets": [
+				90,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SadMouseDown"
+		},
+		{
+			"offsets": [
+				114,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SadMouseUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				151,
+				-19
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SadMouseIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				151,
+				-137
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "Animation",
+			"indices": [],
+			"name": "SadMouseAnimation1"
+		},
+		{
+			"offsets": [
+				150,
+				-140
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "Scream",
+			"indices": [],
+			"name": "SadMouseAnimation2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RemakeSadMouseAssets",
+	"position": [
+		-170,
+		50
+	],
+	"healthicon": "sadmouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		99,
+		99,
+		99
+	],
+	"camera_position": [
+		220,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

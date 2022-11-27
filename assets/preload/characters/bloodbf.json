@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BloodBFIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				144
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BloodBFLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				129
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BloodBFDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				167
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BloodBFUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				133
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BloodBFRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				117,
+				149
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISSBloodBFLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				131
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISSBloodBFDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				167
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "MISSBloodBFUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				132
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISSBloodBFRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BloodBFAssets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		72,
+		72,
+		72
+	],
+	"camera_position": [
+		-10,
+		-530
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

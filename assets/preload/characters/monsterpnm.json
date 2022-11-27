@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				407,
+				58
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MonsterPNMLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				115
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MonsterPNMDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				189,
+				343
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MonsterPNMUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				58
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MonsterPNMRight",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				190,
+				60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MonsterPNMIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				189,
+				59
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "animation",
+			"indices": [],
+			"name": "MonsterPNMAnimation"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RemakeMonsterPNMAssets",
+	"position": [
+		-240,
+		0
+	],
+	"healthicon": "monsterphotonegative",
+	"flip_x": false,
+	"healthbar_colors": [
+		38,
+		29,
+		129
+	],
+	"camera_position": [
+		-290,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DecapitatedPNMIdle"
+		},
+		{
+			"offsets": [
+				381,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "DecapitatedPNMLeft"
+		},
+		{
+			"offsets": [
+				60,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DecapitatedPNMDown"
+		},
+		{
+			"offsets": [
+				-36,
+				290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "DecapitatedPNMUp"
+		},
+		{
+			"offsets": [
+				-160,
+				-83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "DecapitatedPNMRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RemakeDecapitatedPNMAssets",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "photonegative",
+	"flip_x": false,
+	"healthbar_colors": [
+		38,
+		29,
+		129
+	],
+	"camera_position": [
+		-180,
+		-290
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

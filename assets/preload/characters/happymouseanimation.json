@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				240,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Animation",
+			"indices": [],
+			"name": "HappyMouseAnimation"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HappyMouseAnimation",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "happymouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		99,
+		99,
+		99
+	],
+	"camera_position": [
+		-210,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

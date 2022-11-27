@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TVSadMouseRight"
+		},
+		{
+			"offsets": [
+				331,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TVSadMouseLeft"
+		},
+		{
+			"offsets": [
+				140,
+				260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TVSadMouseDown"
+		},
+		{
+			"offsets": [
+				64,
+				305
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TVSadMouseUp"
+		},
+		{
+			"offsets": [
+				101,
+				91
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TVSadMouseIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TVSadMouseAssets",
+	"position": [
+		200,
+		-310
+	],
+	"healthicon": "verysadmouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		99,
+		99,
+		99
+	],
+	"camera_position": [
+		-270,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

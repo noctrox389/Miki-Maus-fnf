@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				271,
+				51
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "MickeyCholoIdle"
+		},
+		{
+			"offsets": [
+				110,
+				77
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "MickeyCholoRight"
+		},
+		{
+			"offsets": [
+				162,
+				61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "MickeyCholoLeft"
+		},
+		{
+			"offsets": [
+				248,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "MickeyCholoDown"
+		},
+		{
+			"offsets": [
+				201,
+				76
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "MickeyCholoUp"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MickeyCholoAssets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mikicholo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		30,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

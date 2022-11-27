@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "jumpscare"
+		},
+		{
+			"offsets": [
+				60,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "go"
+		},
+		{
+			"offsets": [
+				60,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "retry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GameOverAssets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sadmouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		99,
+		99,
+		99
+	],
+	"camera_position": [
+		650,
+		-260
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

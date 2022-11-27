@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				180,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "SCPMouseIdle"
+		},
+		{
+			"offsets": [
+				81,
+				290
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "SCPMouseLeft"
+		},
+		{
+			"offsets": [
+				120,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "SCPMouseDown"
+		},
+		{
+			"offsets": [
+				134,
+				210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "SCPMouseUp"
+		},
+		{
+			"offsets": [
+				130,
+				157
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "SCPMouseRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SCPMouseAssets",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "scpmouse",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		1,
+		7
+	],
+	"camera_position": [
+		-80,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
